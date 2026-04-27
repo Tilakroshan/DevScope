@@ -28,7 +28,7 @@ DevScope is a full-stack developer analytics platform with two workflows:
    - `npm install`
    - `npm --prefix server install`
 2. Configure backend environment:
-   - Copy `server/.env.example` to `server/.env`
+   - In `server/.env`
    - Add `GEMINI_API_KEY` 
    - Add `GITHUB_TOKEN`
 3. Start Project:
