@@ -124,7 +124,7 @@ function App() {
                 <input
                   value={username}
                   onChange={(e) => setUsername(e.target.value)}
-                  placeholder="e.g. torvalds"
+                  placeholder="e.g. tilakroshan"
                   className="flex-1 rounded-lg border border-slate-700 bg-slate-950 px-3 py-2 outline-none ring-blue-500 focus:ring-2"
                 />
                 <button
@@ -207,7 +207,7 @@ function App() {
                 <input
                   value={repo}
                   onChange={(e) => setRepo(e.target.value)}
-                  placeholder="e.g. facebook/react"
+                  placeholder="e.g. tilakroshan/DevScope"
                   className="flex-1 rounded-lg border border-slate-700 bg-slate-950 px-3 py-2 outline-none ring-blue-500 focus:ring-2"
                 />
                 <button
